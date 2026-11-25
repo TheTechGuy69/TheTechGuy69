@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm TheTechGuy69 👋
 
-<!--
-**TheTechGuy69/TheTechGuy69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android ROM porter, kernel tinkerer, and Minecraft dev. I mostly mess with my **Redmi Note 14 Pro+ (amethyst)** until it does things it was never meant to do.
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on
+- **QuartzROM**: One UI 9 port for amethyst (SourceForge: one-ui-for-amethyst)
+- **TechAmethyst kernel**: custom GKI kernel with KernelSU ([repo](https://github.com/TheTechGuy69/techamethyst-kernel))
+- **Low-level experiments**: bootloaders, kernels, and getting other OSes running on Android hardware 👀
+- **Minecraft**: Fabric mods, Paper plugins, and Meteor addons for my SMP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Stuff I use
+`C` · `C++` · `Python` · `Kotlin` · `Rust` · `Java` · `smali` · Arch Linux · Windows · Claude Code
+
+### 📺 Find me
+- YouTube: **TheTechGuy69** (Minecraft)
+- Discord / socials: @thetechguy.69
+
+### ⚡ Fun fact
+I've bootlooped my phone more times than I've restarted my PC. 😅
